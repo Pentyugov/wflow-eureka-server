@@ -1,4 +1,4 @@
-### Wflow server app
+### Wflow eureka-server app
 
 ##### Стэк: Spring boot, Eureka Server
 
